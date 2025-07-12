@@ -56,7 +56,7 @@ class Clock(QWidget):
 
 def show_clock():
     app = QApplication(sys.argv)
-    user_choice =  input("Choose time format: 12h or 24h? ").strip()
+    user_choice =  input("Choose time format: "12h" or "24h"? ").strip()
     if user_choice == "24h":
         clock_windows = Clock(military_time=True)
     else:
