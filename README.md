@@ -8,7 +8,7 @@ It uses a glowing green "Digital.ttf" font to recreate the retro terminal/clock 
 
 ---
 
-## 🚀 Features
+## 🚀 Features.
 
 - ⏰ Live updating digital clock
 - 💡 Custom LED-style font (included)
