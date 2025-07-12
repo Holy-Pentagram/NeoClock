@@ -3,6 +3,9 @@
 **NeoClock** is a modern digital clock built with Python and PyQt5.  
 It uses a glowing green "Digital.ttf" font to recreate the retro terminal/clock display.
 
+![Screenshot 1](Screenshot_2025-07-12_16-59-20.png)
+![Screenshot 2](Screenshot_2025-07-12_17-00-07.png)
+
 ---
 
 ## 🚀 Features
